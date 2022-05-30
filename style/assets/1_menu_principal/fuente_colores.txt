@@ -1,0 +1,13 @@
+Radio Canada: https://fonts.google.com/specimen/Radio+Canada?category=Sans+Serif,Display,Handwriting,Monospace
+Ubuntu: https://fonts.google.com/specimen/Ubuntu?category=Sans+Serif,Display,Handwriting,Monospace
+Catamaran: https://fonts.google.com/specimen/Catamaran?category=Sans+Serif,Display,Handwriting,Monospace
+
+Logo azul: #097eff
+
+Logo naranja: #ecb12f
+
+Moradito del fondo: #f6efe8
+
+Morado: #611f69
+
+Azul play: #36c5f0

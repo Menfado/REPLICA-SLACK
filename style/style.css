@@ -1,0 +1,96 @@
+/* 4-SECCIÓN_VÍDEOS */
+.seccion_videos {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.cajas_videos {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.videos {
+    width: 90%;
+    max-width: 600px;
+}
+.link_videos {
+    font-weight: 600;
+    padding: 15px;
+}
+
+/* 5-PRIMEROS_PASOS_EN_SLACK */
+
+.seccion_pasos {
+    background-color:#f6efe8;
+    color: black;
+    padding:15px;
+    text-decoration: none;
+}
+
+.numero {
+    width: 15%;
+    max-width: 40px;
+}
+.pasos_titulo {
+font-size: larger;
+font-weight: 900;
+}
+.carrousel {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.imagen_carrousel {
+    height: 400px;
+    margin: 20px;
+}
+
+/* FOOTER */
+.rectangulo_morado {
+    background-color: #611f69;
+    color: white;
+}
+.rectangulo_morado_botones {
+    display: flex; 
+    flex-wrap: wrap;
+}
+.boton_footer {
+    text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: white;
+    border-color: white;
+    margin: 15px 10px;
+}
+.listados_footer {
+    color: black;
+    list-style-type: none;
+}
+.logo_footer {
+    width: 20%;
+    max-width:200px;
+}
+.rrss {
+    display: flex;
+    justify-content: space-around; 
+}
+.rrss_icono {
+    width:5%;
+    max-width: 25px;
+}
+.footer_texto {
+    color: black;
+}
+/*
+@media para web
+.agrupacion_pasos {
+    display: flex;
+    align-items: row;
+
+.listados_footer {
+    display: flex;
+    align-items: row;
+    justify-content: space-around;
+}
+}*/
